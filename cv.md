@@ -1,4 +1,4 @@
-# Hello github, :wave: Saba Ozbegashvili is here
+# Hello github, Saba Ozbegashvili is here
 
 **Location:** Georgia, Tbilisi  
 **Phone Number:** +995 557 60 50 51    
