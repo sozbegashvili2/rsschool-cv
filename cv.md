@@ -41,3 +41,8 @@ I'm always studying new things, new technologies, and I never give up of study! 
 **Full-Stack web developer** - *[Oct/2020 ~ current]*  
 [Scandiweb](https://scandiweb.com/)
 > E-Commerce solutions, PWA development for magento 2 front-end
+
+## Education  
+
+**Computer science in Causasus University** - September 2018 
+[Visit university](https://cu.edu.ge/)  
