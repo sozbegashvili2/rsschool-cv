@@ -46,3 +46,8 @@ I'm always studying new things, new technologies, and I never give up of study! 
 
 **Computer science in Causasus University** - September 2018 
 [Visit university](https://cu.edu.ge/)  
+
+## Courses  
+
+* [React.js](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) at the [Udemy.com](http://udemy.com/) 
+* [Javascript](https://www.udemy.com/course/the-complete-javascript-course/) at the [Udemy.com](http://udemy.com/)
