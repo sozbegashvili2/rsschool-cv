@@ -13,3 +13,25 @@ The most attractive for me are projects with biggest challenges, when the soluti
 I've very facility to make new friends and love to work and collaborate with teams. And nothing is better than to work with teams and share knowledge and experience for growing's sake.
 
 I'm always studying new things, new technologies, and I never give up of study! After all, what we learning is the only capital what we never lose, nobody can take this of us!
+
+## Skills  
+
+### Front-End  
+
+* HTML/HTML5  
+* CSS/CSS3  
+* JavaScript  
+
+### Back-end
+* PHP
+
+#### Tools, Frameworks 
+
+* React
+* Laravel
+* Magento 2
+
+### Databases - Relational and NoSQL  
+* MySQL   
+* Firebase  
+* MongoDB  / Mongoose   
