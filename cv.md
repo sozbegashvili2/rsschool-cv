@@ -35,3 +35,9 @@ I'm always studying new things, new technologies, and I never give up of study! 
 * MySQL   
 * Firebase  
 * MongoDB  / Mongoose   
+
+
+## Work Experience (Fixed Jobs)
+**Full-Stack web developer** - *[Oct/2020 ~ current]*  
+[Scandiweb](https://scandiweb.com/)
+> E-Commerce solutions, PWA development for magento 2 front-end
